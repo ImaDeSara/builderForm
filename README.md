@@ -1,12 +1,21 @@
-# React + Vite
+# Component Builder Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive form component that captures user input for **Name**, **Age**, and **Hobby**, and displays the entered data in real-time below the form. This project demonstrates live state updates, responsive UI behavior, and component-based architecture in modern web development.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Real-time preview of user input
+- Clean and responsive layout
+- Modular component structure
+- Easy to extend with additional fields or styling
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- HTML / CSS
+- JavaScript (Vanilla or Framework like React/Vue — update as needed)
+
+## 📦 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/component-builder-form.git
