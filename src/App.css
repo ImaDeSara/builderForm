@@ -1,0 +1,37 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+input {
+  padding: 0.5rem;
+  border: 1px solid white;
+  border-radius: 4px;
+  background-color: white;
+  color: black; 
+}
+.component-builder{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  color: black;
+  background-image: url('assets/blurry.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 2rem;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.205);
+}
+.component-output {
+  margin-top: 1rem;
+  padding: 1rem;
+  border-radius: 8px;
+  background-image: url('assets/blurry.jpg');
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.205);
+}
+
+
